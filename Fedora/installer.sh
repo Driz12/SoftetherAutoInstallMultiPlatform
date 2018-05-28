@@ -1,9 +1,10 @@
 #--------------------------------------------------
 #SoftEther Auto Install Script
-#CentOS and Fedora
+#Fedora
 #Created May 25, 2018
 #Latest SoftEther Server Version for May 2018
 #Coded by Jayson Velagio
+#Modified by Eildriz
 #Open Source Project From https://www.softether.org/
 #From University of Tsukuba, Japan
 #--------------------------------------------------
@@ -31,7 +32,7 @@ chmod 600 *
 chmod 700 vpncmd
 chmod 700 vpnserver
 #Installing server command
-wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Centos/vpn-server.sh
+wget https://raw.githubusercontent.com/Driz12/SoftetherAutoInstallMultiPlatform/master/Fedora/vpn-server.sh
 mv vpn-server.sh /etc/init.d/vpnserver
 cd /etc/init.d/
 chmod 755 vpnserver
