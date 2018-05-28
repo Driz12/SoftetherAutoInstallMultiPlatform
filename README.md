@@ -11,11 +11,11 @@ Choose your desired platform folder<br />
 Download installer.sh using wget or transfer to your root directory using ftp<br /><br />
 
 <b>Download and install the installer.sh by executing the commands below</b><br /><br />
-<b>For centos and fedora</b> (copy all the codes below and paste on your terminal)<br /><br />
+<b>For CentOS and Fedora</b> (copy all the codes below and paste on your terminal)<br /><br />
 ```yum install wget -y && wget https://raw.githubusercontent.com/Driz12/SoftetherAutoInstallMultiPlatform/master/Centos/installer.sh && chmod +x installer.sh && ./installer.sh ```<br /><br /><br />
 
 
-<b>For debian and ubuntu</b> (copy all the codes below and paste on your terminal)<br /><br />
+<b>For Debian and Ubuntu</b> (copy all the codes below and paste on your terminal)<br /><br />
 ```wget https://raw.githubusercontent.com/Driz12/SoftetherAutoInstallMultiPlatform/master/Debian%20and%20Ubuntu/installer.sh && chmod +x installer.sh && ./installer.sh```<br /><br /><br />
 
 
