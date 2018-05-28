@@ -1,16 +1,16 @@
 #--------------------------------------------------
-#Softether auto install script
-#Centos 7
+#SoftEther Auto Install Script
+#CentOS 6/7 / Fedora
 #Created May 25, 2018
-#Latest Softether Server Version for May 2018
+#Latest SoftEther Server Version for May 2018
 #Coded by Jayson Velagio
 #Open Source Project From https://www.softether.org/
-#From university of Tsukuba, Japan
+#From University of Tsukuba, Japan
 #--------------------------------------------------
 #Login with root permission or execute #sudo su
-#Script start
+#Script Start
 #--------------------------------------------------
-#Updating centos version
+#Updating CentOS version
 cd /root
 yum update -y
 yum groupinstall "development tools" -y
@@ -46,4 +46,4 @@ echo /etc/init.d/vpnserver start - to start
 echo /etc/init.d/vpnserver restart - to restart
 echo /etc/init.d/vpnserver stop - to stop
 echo ---------------------------------------------
-#End of script
+#End of Script
