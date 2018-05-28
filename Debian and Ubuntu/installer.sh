@@ -10,7 +10,7 @@
 #Login with root permission or execute #sudo su
 #Script start
 #--------------------------------------------------
-#Updating centos version
+#Updating version
 cd /root
 apt-get update -y
 apt-get install build-essential -y
@@ -30,7 +30,7 @@ chmod 600 *
 chmod 700 vpncmd
 chmod 700 vpnserver
 #Installing server command
-wget https://raw.githubusercontent.com/Driz12/SoftetherAutoInstallMultiPlatform/master/Debian%20and%20Ubuntu/vpn-server.sh --no-check-certificate
+wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Debian%20and%20Ubuntu/vpn-server.sh --no-check-certificate
 mv vpn-server.sh /etc/init.d/vpnserver
 cd /etc/init.d/
 chmod 755 vpnserver
