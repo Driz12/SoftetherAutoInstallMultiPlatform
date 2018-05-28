@@ -1,5 +1,5 @@
 # SoftEther Auto Install Multi Platform<br />
-* Softether Auto Install Script for Multi-Platform<br />
+* SoftEther Auto Install Script for Multi-Platform<br />
 * SoftEther VPN Server (Ver 4.27, Build 9667, beta)
 * An open source VPN project from University of Tsukuba Japan<br />
 * CentOS 6 or 7 x64
