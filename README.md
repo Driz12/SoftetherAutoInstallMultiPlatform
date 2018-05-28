@@ -1,8 +1,9 @@
 # SoftEther Auto Install Multi Platform<br />
-* Softether Auto Install Script for multi platforms updated version<br />
-* Softether VPN server latest version 4.27-9666-beta-2018.04.21
+* Softether Auto Install Script for Multi-Platform<br />
+* SoftEther VPN Server (Ver 4.27, Build 9667, beta)
 * An open source VPN project from University of Tsukuba Japan<br />
-* Centos 6 or 7 x64
+* CentOS 6 or 7 x64
+* Fedora
 * Debian 8 (jessie) <b>(Not compatible for Debian 9 (stretch) x64 - compilation error)</b>
 * Ubuntu 14, 15, 16 x64 <b>(Not compatible for Ubuntu 17 and 18 x64 - compilation error)</b>
 
