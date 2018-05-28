@@ -1,6 +1,6 @@
 #--------------------------------------------------
 #SoftEther Auto Install Script
-#Fedora
+#CentOS
 #Created May 25, 2018
 #Latest SoftEther Server Version for May 2018
 #Coded by Jayson Velagio
