@@ -8,9 +8,9 @@
 #From university of Tsukuba, Japan
 #--------------------------------------------------
 #Login with root permission or execute #sudo su
-#Script start
+#Script Start
 #--------------------------------------------------
-#Updating version
+#Updating Version
 cd /root
 apt-get update -y
 apt-get install build-essential -y
@@ -29,7 +29,7 @@ cd /usr/local/vpnserver
 chmod 600 *
 chmod 700 vpncmd
 chmod 700 vpnserver
-#Installing server command
+#Installing Server Command
 wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Debian%20and%20Ubuntu/vpn-server.sh --no-check-certificate
 mv vpn-server.sh /etc/init.d/vpnserver
 cd /etc/init.d/
@@ -44,5 +44,6 @@ echo ---------------Commands----------------------
 echo /etc/init.d/vpnserver start - to start
 echo /etc/init.d/vpnserver restart - to restart
 echo /etc/init.d/vpnserver stop - to stop
+echo /usr/local/vpnserver/vpncmd
 echo ---------------------------------------------
 #End of script
