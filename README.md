@@ -19,7 +19,7 @@ Download installer.sh using wget or transfer to your root directory using ftp<br
 
 
 <b>For CentOS and Fedora</b> <br /><br />
-```yum install wget -y && wget https://raw.githubusercontent.com/Driz12/SoftetherAutoInstallMultiPlatform/master/CentOS%20and%20Fedora/installer.sh && chmod +x installer.sh && ./installer.sh ```<br /><br /><br />
+```yum install wget -y && wget https://raw.githubusercontent.com/Driz12/SoftetherAutoInstallMultiPlatform/master/Fedora/installer.sh && chmod +x installer.sh && ./installer.sh ```<br /><br /><br />
 
 
 <b>For Debian and Ubuntu</b> <br /><br />
