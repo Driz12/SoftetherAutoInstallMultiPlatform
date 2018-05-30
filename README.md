@@ -3,11 +3,12 @@
 * Updated 5/30/18
 * SoftEther VPN Server (Ver 4.27, Build 9668, beta)
 * An open source VPN project from University of Tsukuba Japan<br />
+
 <b>Works With</b>
-* CentOS 6 or 7 x64
-* Fedora
-* Debian 8 or 9 x64
-* Ubuntu 14, 15, 16, 17, 18 x64
+  * CentOS 6 or 7 x64
+  * Fedora
+  * Debian 8 or 9 x64
+  * Ubuntu 14, 15, 16, 17, 18 x64
 
 # Instruction<br />
 Choose your desired platform folder<br />
