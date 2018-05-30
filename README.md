@@ -1,6 +1,6 @@
 # SoftEther Auto Install Multi Platform<br />
 * SoftEther Auto Install Script for Multi-Platform<br />
-* Updated 5/28/18
+* Updated 5/30/18
 * Due to issues, the latest version of SoftEther VPN Server is only applicable to Fedora.
 * An open source VPN project from University of Tsukuba Japan<br />
 * CentOS 6 or 7 x64
@@ -14,7 +14,7 @@ Download installer.sh using wget or transfer to your root directory using ftp<br
 (Copy All The Codes Below And Paste On Your Terminal)
 
 <b>Download and install the installer.sh by executing the commands below</b><br /><br />
-<b>For Fedora</b> (SoftEther VPN Server Ver 4.27, Build 9667, beta)<br /><br />
+<b>For Fedora</b> (SoftEther VPN Server Ver 4.27, Build 9668, beta)<br /><br />
 ```yum install wget -y && wget https://raw.githubusercontent.com/Driz12/SoftetherAutoInstallMultiPlatform/master/Fedora/installer.sh && chmod +x installer.sh && ./installer.sh ```<br /><br /><br />
 
 <b>For CentOS</b> (SoftEther VPN Server Ver 4.27, Build 9666, beta)<br /><br />
