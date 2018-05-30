@@ -41,8 +41,9 @@ echo ---------------------------------------------
 echo  -e "\033[32;5mVPN SERVER INSTALLED SUCCESSFULLY!\033[0m"
 echo "vpncmd is at /usr/local/vpnserver"
 echo ---------------Commands----------------------
-echo /etc/init.d/vpnserver start - to start
-echo /etc/init.d/vpnserver restart - to restart
-echo /etc/init.d/vpnserver stop - to stop
+echo /etc/init.d/vpnserver start - To Start
+echo /etc/init.d/vpnserver restart - To Restart
+echo /etc/init.d/vpnserver stop - To Stop
+echo /usr/local/vpnserver/vpncmd - To access VPN CMD
 echo ---------------------------------------------
 #End Of Script
